@@ -1,8 +1,8 @@
 {
-  "name": "E3_HACKER_MD",
+  "name": "✓Hameedjutt™-XMD",
   "description": "Javascript WhatsApp bot made by E3_HACKER_MD",
-  "logo": "https://files.catbox.moe/p4yxcn.png",
-  "keywords": ["E3_HACKER_MD"],
+  "logo": "https://ibb.co/zWw38zrd",
+  "keywords": ["✓Hameedjutt™-XMD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "E3_HACKER_MD"
+      "value": "✓Hameedjutt™-XMD"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY E3_HACKER_MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY ✓Hameedjutt™-XMD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "*E3_HACKER_MD*"
+      "value": "*✓Hameedjutt™-XMD*"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923495178663"
+      "value": "923366907748"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿"
+      "value": "✓Hameedjutt™-XMD"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/p4yxcn.png"
+      "value": "https://ibb.co/zWw38zrd"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿 ❣️*"
+      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✓Hameedjutt™-XMD ❣️*"
     },
 
       "DELETE_LINKS": {
