@@ -35,7 +35,7 @@ cmd({
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐀𝐫𝐬𝐥𝐚𝐧_𝐌𝐃 ❣️*`;
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✓Hameedjutt™-XMD ❣️*`;
 
         // Send video directly with caption
         await conn.sendMessage(
@@ -89,8 +89,8 @@ cmd({
             body: "Join our WhatsApp Channel",
             mediaType: 1,
             thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
-            sourceUrl: 'https://whatsapp.com/channel/0029VaHI7LsFnSz1irwgsL1z',
-            mediaUrl: 'https://whatsapp.com/channel/0029VaHI7LsFnSz1irwgsL1z',
+            sourceUrl: 'https://whatsapp.com/channel/0029Vb6uNG5JENy6LTxMUa3l',
+            mediaUrl: 'https://whatsapp.com/channel/0029Vb6uNG5JENy6LTxMUa3l',
             showAdAttribution: true,
             renderLargerThumbnail: true
         }
